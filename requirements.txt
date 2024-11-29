@@ -81,7 +81,7 @@ plac==0.9.6
 pluggy==0.13.1
 preshed==2.0.1
 promise==2.2.1
-protobuf==3.11.1
+protobuf==3.18.3
 py==1.8.1
 py-params==0.8.2
 pyasn1==0.4.8
